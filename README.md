@@ -1,0 +1,2 @@
+# MailAPI
+MailAPI library
